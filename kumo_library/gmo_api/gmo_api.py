@@ -110,7 +110,7 @@ class GmoApi_private:
         return response.json()
     
     #日本円で注文
-    def post_order_by_JPY(self, symbol:str, side:str, executionType:str, jpy_size:str, price:str=None, timeInForce:str=None, losscutPrice:str=None, cancelBefore:bool=None):
+    def post_order_by_JPY2(self, symbol:str, side:str, executionType:str, jpy_size:str, price:str=None, timeInForce:str=None, losscutPrice:str=None, cancelBefore:bool=None):
         jpy_size = float(jpy_size)
         #対象銘柄の価格を取得
         last_price = float(self.GmoApi_public.get_ticker(symbol)['data'][0]['last'])
@@ -131,9 +131,56 @@ class GmoApi_private:
         rounded_size = math.floor(size / minOrderSize)
         # 結果を再びminOrderSizeで乗算して近似値を得る
         approx_size = round(rounded_size * minOrderSize, count_decimal_places(minOrderSize))
+        print(approx_size)
         #注文を行う
         response = self.post_order(symbol, side, executionType, str(approx_size), price, timeInForce, losscutPrice, cancelBefore)
         return response
+    
+    def post_order_by_JPY(self, symbol:str, side:str, executionType:str, jpy_size:str, price:str=None, timeInForce:str=None, losscutPrice:str=None, cancelBefore:bool=None):
+        jpy_size = float(jpy_size)
+        #対象銘柄の価格を取得
+        last_price = float(self.GmoApi_public.get_ticker(symbol)['data'][0]['last'])
+        #指定した日本円に値する注文サイズを計算
+        size = jpy_size/last_price
+        #symbolの最低注文数量を取得
+        rules = self.GmoApi_public.get_rules()['data']
+        minOrderSize = float(next(item['minOrderSize'] for item in rules if item['symbol'] == symbol))
+        #実際に注文できる数量を計算
+        #小数点以下の桁数をカウントする関数
+        def count_decimal_places(number):
+            num_str = str(number)
+            if '.' in num_str:
+                return len(num_str) - num_str.index('.') - 1
+            else:
+                return 0
+        # sizeをminOrderSizeで除算し、結果を下に丸める
+        rounded_size = math.floor(size / minOrderSize)
+        # 結果を再びminOrderSizeで乗算して近似値を得る
+        decimal_places = count_decimal_places(minOrderSize)
+        approx_size = round(rounded_size * minOrderSize, decimal_places)
+        # if minOrderSize is integer, make approx_size integer
+        if minOrderSize.is_integer():
+            approx_size = int(approx_size)
+        #注文を行う
+        response = self.post_order(symbol, side, executionType, str(approx_size), price, timeInForce, losscutPrice, cancelBefore)
+        return response
+
+
+    
+        #注文の一括キャンセル
+    def cancel_all_orders(self, symbols:str, side:str=None, settleType:str=None, desc:bool=None):
+        method = 'POST'
+        path = '/v1/cancelBulkOrder'
+        reqBody = {
+            'symbols': symbols,
+            'side': side,
+            'settleType': settleType,
+            'desc': desc
+        }
+
+        headers = self.get_headers(method, path, reqBody)
+        response = requests.post(self.endpoint + path, headers=headers, data = json.dumps(reqBody))
+        return response.json()
 
 
 
