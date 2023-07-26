@@ -1,0 +1,14 @@
+{
+    "data_dir": "./../data/",
+    "interval": "5min",
+
+    "long_theta": 0.4,
+    "short_theta": 0.3,
+    "symbols": [
+        "ADA", "ASTR", "ATOM", "BAT", "BCH", "BTC", "DAI", "DOT", "ENJ", 
+        "ETH", "FCR", "LINK", "LTC", "MKR", "MONA", "OMG", "QTUM", "XEM", 
+        "XLM", "XRP", "XTZ", "XYM"
+    ],
+    "model": "./../learned_model/model.pkl"
+
+}

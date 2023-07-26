@@ -6,7 +6,7 @@ from dateutil.relativedelta import relativedelta
 from gmo_api import GmoApi_private
 
 
-class DataCoolector:
+class DataCollector:
     def __init__(self, api_key: str, secret_key: str, save_dir: str, interval: str):
         self.api_key = api_key
         self.secret_key = secret_key
@@ -24,7 +24,6 @@ class DataCoolector:
 
         now_date = str_date
         while (now_date <= end_date):
-            print(now_date)
             for symbol in symbols:
                 klines = self.gmo_api_private.GmoApi_public.get_klines(symbol=symbol, interval=self.interval, date=now_date.strftime('%Y%m%d'))['data']
                 save_dir = f'{self.save_dir}{self.interval}/{symbol}/'

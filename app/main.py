@@ -1,44 +1,48 @@
 import os
 import json
 from dotenv import load_dotenv
-# from data_collect import collect_data
 from datetime import datetime
 from apscheduler.schedulers.blocking import BlockingScheduler
 
+from data_collect import DataCollector
+from predict import Predictor
+
 class MainApp:
-    def __init__(self) -> None:
+    def __init__(self):
         # ディレクトリ設定
         os.chdir(os.path.dirname(os.path.abspath(__file__)))
-        self.data_save_dir = "../data/"
 
-        # setting.jsonの読み込み
-        with open("./setting.json", 'r') as f:
+        # config.jsonの読み込み
+        with open("./config.json", 'r') as f:
             self.config = json.load(f)
         
         # 環境変数の読み込み
         load_dotenv()
+
         self.api_key = os.environ.get('GMO_API_KEY')
         self.secret_key = os.environ.get('GMO_API_SECRET')
 
 
-        # Create an instance of scheduler
+        self.data_collector = DataCollector(api_key=self.api_key, secret_key=self.secret_key, save_dir=self.config['data_dir'], interval=self.config['interval'])
+        self.predictor = Predictor(data_dir=self.config['data_dir'], interval=self.config['interval'], long_theta=self.config['long_theta'], short_theta=self.config['short_theta'], symbols=self.config['symbols'], model=self.config['model'])
+        
+        # その他の処理をここに書く
+
         self.scheduler = BlockingScheduler()
 
-        # Add job function to the scheduler
-        self.scheduler.add_job(self.job, 'interval', seconds=10)
+        
+    def run(self):
+        self.data_collector.collect_data()
+        self.predictor.load_and_preprocess_data()
+        long_list, short_list = self.predictor.get_predictions_and_results()
 
-    def job_test(self):
-        # Get current time
-        current_time = datetime.now().strftime("%Y%m%d%H%M%S")
+        # その他の処理をここに書く
 
-        # Create an empty file with current time as name
-        with open(f"{self.data_save_dir}/{current_time}.txt", 'w') as f:
-            pass
-
-    def start(self):
-        # Start the scheduler
+        
+    def start_scheduler(self):
+        self.scheduler.add_job(self.run, 'interval', minutes=5)
         self.scheduler.start()
 
 if __name__ == "__main__":
     app = MainApp()
-    app.start()
+    app.start_scheduler()
