@@ -9,6 +9,8 @@
         "ETH", "FCR", "LINK", "LTC", "MKR", "MONA", "OMG", "QTUM", "XEM", 
         "XLM", "XRP", "XTZ", "XYM"
     ],
-    "model": "./../learned_model/model.pkl"
+    "model": "./../learned_model/model.pkl", 
+
+    "limit_leverage": 10
 
 }

@@ -5,7 +5,7 @@ from gmo_api import GmoApi_private
 from gmo_api import GmoApi_public
 
 
-class position:
+class Position:
     def __init__(self, df: pd.DataFrame, api_key: str, secret_key: str, symbols: list):
         self.df = df
         self.api_key = api_key

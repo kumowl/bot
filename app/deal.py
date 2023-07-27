@@ -6,8 +6,8 @@ from gmo_api import GmoApi_private
 from gmo_api import GmoApi_public
 
 
-class deal:
-    def __init__(self, df: pd.DataFrame, api_key: str, secret_key: str, symbols: list, long_list: list, short_list: list, available_list: list):
+class Deal:
+    def __init__(self, df: pd.DataFrame, api_key: str, secret_key: str, symbols: list, long_list: list, short_list: list, available_list: list, limit_leverage: int):
         self.api_key = api_key
         self.secret_key = secret_key
         self.gmo_api_private = GmoApi_private(api_key, secret_key)
@@ -17,8 +17,9 @@ class deal:
         self.long_list = long_list
         self.short_list = short_list
         self.available_list = available_list
-    
-    def order():
+        self.limit_leverage = limit_leverage
+
+    def order(self):
         #注文を行う関数
         def round_to_tick_size(number, tick_size):
             if tick_size == 1:
@@ -33,9 +34,9 @@ class deal:
             limit_price = None  # 初期化
 
             if side == 'SELL':
-                limit_price = round_to_tick_size(last_price + 10*tick_size, tick_size)
+                limit_price = round_to_tick_size(last_price + self.limit_leverage * tick_size, tick_size)
             elif side == 'BUY':
-                limit_price = round_to_tick_size(last_price - 10*tick_size, tick_size)
+                limit_price = round_to_tick_size(last_price - self.limit_leverage * tick_size, tick_size)
 
             print(limit_price)
 
