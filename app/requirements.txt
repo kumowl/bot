@@ -8,3 +8,4 @@ matplotlib
 #pandas_datareader
 lightgbm
 scikit-learn
+notebook
