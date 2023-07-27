@@ -1,10 +1,10 @@
 pandas
-jupyterlab
+#jupyterlab
 requests
 numpy
-plotly==5.13.0
+#plotly==5.13.0
 matplotlib
-xarray
-pandas_datareader
+#xarray
+#pandas_datareader
 lightgbm
-sklearn
+scikit-learn
