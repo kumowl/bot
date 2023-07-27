@@ -46,16 +46,14 @@ class deal:
 
             self.gmo_api_private.post_order_by_JPY(symbol, side, 'LIMIT', lot, price=limit_price)
 
-        #注文を行う関数
-        def order(self):
-            # ロングポジションの注文
-            for symbol in self.long_list:
-                if ~(symbol in self.available_list):
-                    print(symbol)
-                    #order_by_symbol(symbol, 'BUY', 1000)
+        # ロングポジションの注文
+        for symbol in self.long_list:
+            if ~(symbol in self.available_list):
+                print(symbol)
+                #order_by_symbol(symbol, 'BUY', 1000)
 
-            # ショートポジションの注文
-            for symbol in self.short_list:
-                if symbol in self.available_list:
-                    print(symbol)
-                    #order_by_symbol(symbol, 'SELL', 1000)
+        # ショートポジションの注文
+        for symbol in self.short_list:
+            if symbol in self.available_list:
+                print(symbol)
+                #order_by_symbol(symbol, 'SELL', 1000)
