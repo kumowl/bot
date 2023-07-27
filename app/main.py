@@ -28,7 +28,7 @@ class MainApp:
         self.data_collector = DataCollector(api_key=self.api_key, secret_key=self.secret_key, save_dir=self.config['data_dir'], interval=self.config['interval'])
         self.predictor = Predictor(data_dir=self.config['data_dir'], interval=self.config['interval'], long_theta=self.config['long_theta'], short_theta=self.config['short_theta'], symbols=self.config['symbols'], model=self.config['model'])
         self.position = Position(df=self.predictor.df, api_key=self.api_key, secret_key=self.secret_key, symbols=self.config['symbols'])
-        self.deal = Deal(df=self.predictor.df, api_key=self.api_key, secret_key=self.secret_key, symbols=self.config['symbols'], long_list=self.predictor.long_list, short_list=self.predictor.short_list, available_list=self.position.available_list, limit_leverage=self.config['limit_leverage'])
+        #self.deal = Deal(df=self.predictor.df, api_key=self.api_key, secret_key=self.secret_key, symbols=self.config['symbols'], long_list=self.long_list, short_list=self.short_list, available_list=self.position.available_list, limit_leverage=self.config['limit_leverage'])
 
         self.scheduler = BlockingScheduler()
 
@@ -39,10 +39,16 @@ class MainApp:
         self.predictor.load_and_preprocess_data()
         long_list, short_list = self.predictor.get_predictions_and_results()
 
+        print(long_list)
+        print(short_list)
+
+
         available_list = self.position.get_available_list()
         self.position.cancel_orders()
 
-        self.deal.order()
+        deal = Deal(df=self.predictor.df, api_key=self.api_key, secret_key=self.secret_key, symbols=self.config['symbols'], long_list=long_list, short_list=short_list, available_list=available_list, limit_leverage=self.config['limit_leverage'])
+
+        deal.order()
         
         
     def start_scheduler(self):

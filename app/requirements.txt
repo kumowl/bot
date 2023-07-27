@@ -1,11 +1,11 @@
 pandas
-#jupyterlab
 requests
 numpy
-#plotly==5.13.0
 matplotlib
-#xarray
-#pandas_datareader
 lightgbm
 scikit-learn
-notebook
+python-dotenv
+python-dateutil
+apscheduler
+joblib
+jupyterlab
