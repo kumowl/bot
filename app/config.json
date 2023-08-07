@@ -6,11 +6,14 @@
     "short_theta": 0.3,
     "symbols": [
         "ADA", "ASTR", "ATOM", "BAT", "BCH", "BTC", "DAI", "DOT", "ENJ", 
-        "ETH", "FCR", "LINK", "LTC", "MKR", "MONA", "OMG", "QTUM", "XEM", 
+        "ETH", "FCR", "LINK", "LTC", "MKR", "MONA", "QTUM", "XEM", 
         "XLM", "XRP", "XTZ", "XYM"
     ],
     "model": "./learned_model/ranker_model.pkl", 
 
-    "limit_leverage": 10
+    "limit_leverage": 5,
+
+    "GMO_API_KEY": "jkHs31IfdcePJbS1biTeRqXr13ZS6mGT",
+    "GMO_API_SECRET": "J2Ix2Js8MaZNsdlJJYGsYIMuscwplWLGx2ULeuP33G1w9OoGCOhr5/twAz7H8PRR"
 
 }
