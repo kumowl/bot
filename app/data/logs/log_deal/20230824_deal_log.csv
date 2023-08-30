@@ -1,0 +1,568 @@
+datetime,available_list,long_list,short_list
+2023-08-24 00:00:14.342291,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:05:14.493885,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:10:14.535638,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BCH', 'BTC', 'DOT', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:15:16.353402,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:20:15.124799,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ENJ', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:25:17.397616,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ENJ', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:30:14.557547,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:35:16.882897,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:40:14.758596,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'DOT', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:45:15.731226,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'FCR']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:50:16.263006,"['XRP', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'LINK', 'XEM', 'XRP', 'XTZ']"
+datetime,available_list,long_list,short_list
+2023-08-24 00:55:16.089663,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'FCR', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:00:17.250971,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['FCR']
+datetime,available_list,long_list,short_list
+2023-08-24 01:05:14.915776,"['XRP', 'XEM', 'XTZ', 'ASTR']","['BCH', 'XYM']","['ADA', 'BTC', 'ENJ', 'ETH', 'FCR', 'LTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:10:15.891384,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:15:14.280521,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 01:20:13.649927,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['FCR']
+datetime,available_list,long_list,short_list
+2023-08-24 01:25:15.207868,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 01:30:14.383434,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BAT', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:35:17.321042,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ATOM', 'BTC', 'ETH', 'LINK', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:40:18.086212,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 01:45:17.051396,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ATOM', 'BTC', 'ETH', 'FCR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:50:18.339568,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ENJ', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 01:55:14.667271,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'ETH', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:00:14.209502,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:05:14.091637,"['XRP', 'XTZ', 'ASTR']",[],"['ATOM', 'BTC', 'XEM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:10:14.840998,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:15:14.383520,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:20:14.227368,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:25:14.716647,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ENJ', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:30:14.048530,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:35:13.954064,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XLM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:40:14.708712,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:45:16.019020,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 02:50:13.994123,"['XRP', 'XTZ', 'ASTR']",[],"['XEM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 02:55:15.559384,"['XRP', 'XTZ', 'ASTR']",[],"['ENJ', 'ETH', 'XEM', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:00:14.750019,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:05:15.499664,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'ETH', 'LINK', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:10:14.290188,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'QTUM', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:15:15.391443,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:20:15.420592,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'DAI', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:25:14.549340,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BAT', 'BTC', 'ENJ', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:30:15.900502,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:35:14.563301,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'DOT', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:40:15.503301,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:45:16.006344,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 03:50:14.657136,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['LTC']
+datetime,available_list,long_list,short_list
+2023-08-24 03:55:15.956516,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'FCR', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:00:15.360571,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:05:16.784229,"['BTC', 'XRP', 'XEM', 'XTZ', 'ASTR']","['ADA', 'BTC', 'MONA']","['DOT', 'ENJ', 'ETH', 'FCR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:10:15.344339,"['BTC', 'XRP', 'XEM', 'XTZ', 'ASTR']",[],['ASTR']
+datetime,available_list,long_list,short_list
+2023-08-24 04:15:16.525902,"['BTC', 'XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'FCR', 'MKR', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:20:16.525506,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:25:17.650793,"['BTC', 'XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:30:15.805750,"['BTC', 'XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'DAI', 'FCR', 'MONA', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:35:15.782520,"['BTC', 'XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'DAI', 'DOT', 'ENJ']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:40:15.863102,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BCH', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:45:14.346712,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 04:50:14.914784,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'ETH', 'FCR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 04:55:15.028394,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'MONA', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:00:16.151689,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:05:19.151470,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['XYM']
+datetime,available_list,long_list,short_list
+2023-08-24 05:10:22.878594,"['XRP', 'XEM', 'XTZ', 'ASTR']",['ASTR'],"['ADA', 'BTC', 'DAI', 'LTC', 'XLM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:15:19.986278,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'ATOM', 'BTC', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:20:20.463954,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XLM']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:25:15.347640,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['ENJ']
+datetime,available_list,long_list,short_list
+2023-08-24 05:30:14.820991,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['DOT']
+datetime,available_list,long_list,short_list
+2023-08-24 05:35:17.006155,"['XRP', 'XEM', 'XTZ', 'ASTR']","['ASTR', 'LINK', 'MKR', 'XLM']","['ADA', 'DOT', 'FCR', 'LTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:40:16.908581,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:45:15.418522,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:50:15.054697,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BAT', 'BTC', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 05:55:14.958855,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'MKR']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:00:14.164273,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:05:16.572646,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ATOM', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:10:18.731367,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ENJ', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:15:16.397304,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BCH', 'BTC', 'ENJ', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:20:16.523564,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'FCR', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:25:15.245776,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'DOT', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:30:16.022265,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'DOT', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:35:16.004073,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BAT', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:40:15.728087,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ATOM', 'BTC', 'DAI', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:45:16.320246,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'DOT', 'ETH', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:50:17.651596,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ENJ', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 06:55:14.818884,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'DAI', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:00:23.212554,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:05:14.925321,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:10:16.844726,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ENJ', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:15:16.283299,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'ETH', 'LTC', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:20:15.386076,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'DOT', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:25:15.588383,"['XRP', 'XEM', 'XTZ', 'ASTR']",['DOT'],"['ATOM', 'BTC', 'DAI', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:30:16.441278,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:35:15.773170,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 07:40:19.201036,"['XRP', 'XEM', 'XTZ', 'ASTR']","['BCH', 'XEM']","['ASTR', 'BTC', 'LTC', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:45:16.961876,"['XRP', 'XEM', 'XTZ', 'ASTR']",['XEM'],"['BTC', 'ETH', 'LTC', 'MONA', 'XRP', 'XTZ']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:50:15.767216,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'QTUM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 07:55:16.508603,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ATOM', 'BTC', 'LINK', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:00:18.377483,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'LTC', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:05:15.172015,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ETH', 'LTC', 'MKR', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:10:22.958806,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:15:17.124468,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:20:17.360883,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['ADA', 'DOT', 'FCR', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:25:16.234478,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'BCH', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:30:21.243238,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'DAI', 'ETH', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:35:20.347678,"['XRP', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:40:20.825344,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ENJ', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:45:19.564548,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'LTC', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:50:20.931936,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 08:55:15.932723,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:00:19.535311,"['XRP', 'XEM', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 09:05:16.788689,"['XRP', 'XTZ', 'ASTR']",[],"['BTC', 'DOT', 'ETH', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:10:18.295498,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'ETH', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:15:15.780020,"['XRP', 'XTZ', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 09:20:15.281422,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'DAI', 'ETH', 'QTUM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:25:15.498529,"['XRP', 'XTZ', 'ASTR']",[],"['ATOM', 'BTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:30:15.833453,"['XRP', 'XTZ', 'ASTR']",[],"['ATOM', 'BCH', 'BTC', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:35:15.762982,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'XLM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:40:17.198774,"['XRP', 'XTZ', 'ASTR']","['MONA', 'XLM', 'XRP']","['ASTR', 'ATOM', 'BTC', 'ETH', 'FCR', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:45:15.615395,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 09:50:15.911944,"['XRP', 'XTZ', 'ASTR']",[],['ASTR']
+datetime,available_list,long_list,short_list
+2023-08-24 09:55:17.899302,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:00:18.293379,"['XRP', 'XTZ', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 10:05:17.222826,"['XRP', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 10:10:16.447017,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:15:17.109788,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:20:16.604279,"['XRP', 'XTZ', 'ASTR']",[],"['BAT', 'BTC', 'LINK', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:25:16.969439,"['XRP', 'XTZ', 'ASTR']",[],"['ATOM', 'BTC', 'ENJ', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:30:20.096969,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:35:18.371372,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'ETH', 'FCR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:40:18.135762,"['XRP', 'XTZ', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 10:45:17.063828,"['XRP', 'XTZ', 'ASTR']",[],['ADA']
+datetime,available_list,long_list,short_list
+2023-08-24 10:50:16.097723,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 10:55:17.740794,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XLM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:00:23.697401,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:05:21.004665,"['XRP', 'XTZ', 'ASTR']",[],"['BAT', 'ETH', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:10:23.190789,"['XRP', 'XTZ', 'ASTR']",['ENJ'],"['BAT', 'BTC', 'DAI', 'MKR', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:15:18.979544,"['XRP', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'MONA', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:20:18.889611,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'BTC', 'ETH', 'XRP', 'XTZ']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:25:17.758282,"['XRP', 'XTZ', 'ASTR']",[],['XYM']
+datetime,available_list,long_list,short_list
+2023-08-24 11:30:18.343834,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'LTC', 'XLM', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:35:23.358285,"['XRP', 'XTZ', 'ASTR']","['ADA', 'ATOM', 'BTC', 'DAI', 'XTZ']","['ASTR', 'ETH', 'LTC', 'MONA', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:40:19.218543,"['XRP', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'XEM', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:45:20.506067,"['XRP', 'XTZ', 'ASTR']",[],"['BAT', 'BTC', 'ENJ', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:50:22.439039,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 11:55:23.202741,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'DOT', 'ETH', 'LINK', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:00:21.235881,"['XRP', 'XTZ', 'ASTR']",[],"['BTC', 'DOT', 'ETH', 'LTC', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:05:22.092842,"['XRP', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 12:10:17.149336,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'BCH', 'BTC', 'DOT', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:15:17.352652,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:20:17.805220,"['XRP', 'XTZ', 'ASTR']",[],"['ADA', 'ASTR', 'ATOM', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:25:16.539063,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'DOT', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:30:16.264564,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:35:17.214532,"['XRP', 'XTZ', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'ETH', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:40:16.555768,"['XRP', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'ENJ', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:45:16.434006,"['XRP', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 12:50:17.468722,"['XRP', 'XTZ', 'ASTR']","['ASTR', 'XTZ']","['BCH', 'BTC', 'DAI', 'FCR', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 12:55:20.985497,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']","['ATOM', 'ETH', 'LINK', 'LTC', 'XLM']","['ASTR', 'BTC', 'DAI', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:00:18.533952,"['LTC', 'XRP', 'XTZ', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'MONA', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:05:17.761078,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['ASTR', 'BAT', 'BTC', 'ENJ', 'FCR', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:10:17.407171,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:15:19.964102,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:20:20.651837,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['ASTR', 'ATOM', 'BCH', 'BTC', 'ETH', 'MONA']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:25:22.625089,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 13:30:21.121526,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],['DOT']
+datetime,available_list,long_list,short_list
+2023-08-24 13:35:20.857151,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']","['DOT', 'ETH', 'XRP']","['ASTR', 'BAT', 'ENJ', 'FCR', 'MKR', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:40:17.704891,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['ASTR', 'DAI', 'DOT', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 13:45:17.683598,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 13:50:16.772478,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],['MKR']
+datetime,available_list,long_list,short_list
+2023-08-24 13:55:17.763998,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],['ASTR']
+datetime,available_list,long_list,short_list
+2023-08-24 14:00:21.078398,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:05:17.141303,"['LTC', 'XRP', 'XTZ', 'ASTR']",[],"['BAT', 'BCH', 'BTC', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:10:18.039548,"['LTC', 'XRP', 'XLM', 'XTZ', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'LTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:15:16.530818,"['BTC', 'LTC', 'XRP', 'XTZ', 'ASTR']",[],['MKR']
+datetime,available_list,long_list,short_list
+2023-08-24 14:20:18.816838,"['BTC', 'LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['MKR', 'XRP']","['ATOM', 'BAT', 'BCH', 'ETH', 'FCR', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:25:19.126325,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'FCR', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:30:18.006292,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'LTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:35:17.620735,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['BAT']
+datetime,available_list,long_list,short_list
+2023-08-24 14:40:17.583999,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 14:45:22.842858,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['ADA', 'ATOM', 'BCH', 'DOT', 'LTC', 'MKR']","['BTC', 'DAI', 'ENJ', 'XEM', 'XRP', 'XTZ']"
+datetime,available_list,long_list,short_list
+2023-08-24 14:50:18.065746,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 14:55:19.349717,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['BAT', 'MKR']","['ASTR', 'BCH', 'BTC', 'DOT', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:00:20.950971,"['LTC', 'XRP', 'XTZ', 'MKR', 'ASTR']","['ATOM', 'LTC', 'MKR']","['BCH', 'DAI', 'DOT', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:05:20.600938,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'DOT', 'ETH', 'FCR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:10:18.879473,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:15:19.386143,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'QTUM', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:20:18.689014,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:25:22.657372,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['ASTR', 'ATOM', 'BAT', 'BCH', 'DOT', 'XLM', 'XYM']","['BTC', 'DAI', 'ETH', 'LTC', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:30:20.286765,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'LTC', 'MKR', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:35:20.229274,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ADA', 'BTC', 'ETH', 'LTC', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:40:18.793758,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XTZ']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:45:20.410393,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'FCR', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:50:22.322228,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 15:55:22.758521,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ADA', 'BTC', 'ETH', 'XLM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:00:22.088484,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-24 16:05:27.432324,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['BAT', 'DOT', 'LINK', 'MKR', 'XLM', 'XTZ']","['ADA', 'BTC', 'ETH', 'LTC', 'MONA', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:10:23.901187,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'MKR', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:15:18.599115,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ATOM', 'BTC', 'ETH', 'MONA', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:20:18.602881,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'LINK', 'MKR', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:25:17.624630,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ADA', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:30:19.570362,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LINK', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:35:18.131282,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['DOT', 'ETH', 'LINK', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:40:16.661108,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['XYM']
+datetime,available_list,long_list,short_list
+2023-08-24 16:45:18.882727,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'DOT', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:50:17.738400,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 16:55:18.009169,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:00:21.690751,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'MKR', 'XLM']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:05:17.750389,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:10:21.988126,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BCH', 'BTC', 'ETH', 'LTC', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:15:18.132855,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['MKR']
+datetime,available_list,long_list,short_list
+2023-08-24 17:20:21.334169,"['BTC', 'LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['BTC', 'ETH', 'LINK', 'MKR', 'QTUM', 'XTZ']","['ADA', 'ENJ', 'FCR', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:25:17.870176,"['BTC', 'LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'DOT', 'FCR', 'LINK', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:30:18.435034,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:35:17.892659,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'DOT', 'LINK', 'XLM']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:45:18.733741,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",['QTUM'],"['ADA', 'BTC', 'DOT', 'ENJ', 'ETH', 'LTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 17:50:17.677420,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 17:55:18.256172,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:00:18.543854,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'DOT', 'ETH', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:05:18.536810,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'DAI', 'MONA', 'XTZ', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:10:17.921683,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:15:18.251094,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BCH', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:20:17.981892,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'DOT', 'ETH', 'LTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:25:17.999240,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'BCH', 'BTC', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:30:18.040528,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 18:35:18.284361,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 18:40:18.539696,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ADA', 'ATOM', 'BTC', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:45:18.067747,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ADA', 'ATOM', 'BCH', 'DOT', 'ETH', 'LINK']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:50:20.449766,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 18:55:22.421244,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:00:21.166693,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['XRP']
+datetime,available_list,long_list,short_list
+2023-08-24 19:05:22.442332,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'DOT', 'ETH', 'FCR', 'MKR', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:10:20.983624,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'QTUM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:15:21.233266,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 19:20:21.281868,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'ETH', 'LINK', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:25:22.012293,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BAT', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:30:22.025786,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 19:35:27.099149,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'QTUM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:40:24.292026,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:45:22.869870,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:50:24.228152,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 19:55:19.076213,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],['ETH']
+datetime,available_list,long_list,short_list
+2023-08-24 20:00:18.711247,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:05:23.269422,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']","['ATOM', 'FCR']","['ADA', 'ASTR', 'BTC', 'ENJ', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:10:19.561207,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'LINK', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:15:20.703697,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'ETH']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:20:20.651587,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",['FCR'],"['ASTR', 'BTC', 'DOT', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:30:19.189154,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'ATOM', 'BTC', 'DOT', 'LINK', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:35:21.966619,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:40:19.359483,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:45:18.460333,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BTC', 'LTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:50:20.447332,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'LTC']"
+datetime,available_list,long_list,short_list
+2023-08-24 20:55:19.201641,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['BCH', 'BTC', 'DOT', 'ETH', 'LTC', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:00:19.990779,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:05:23.793973,"['LTC', 'XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:10:20.089392,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:15:23.476437,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:20:23.984292,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:25:20.781246,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:30:20.845344,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:35:20.223903,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:40:25.463563,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:50:21.611906,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 21:55:30.005245,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:00:26.905620,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:05:25.095284,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:10:23.774315,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:15:21.243243,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:20:23.483778,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:25:24.462891,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:30:24.656103,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:35:24.919623,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:40:22.498869,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:45:24.003939,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 22:55:24.460819,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:00:31.584074,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:05:26.511844,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:10:32.126716,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:15:28.321550,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:20:27.739938,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:25:38.897938,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:30:34.758150,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:35:21.417410,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:40:23.231086,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:45:24.806480,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:50:22.972224,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-24 23:55:28.368943,"['XRP', 'XLM', 'XTZ', 'MKR', 'ASTR']",[],"['ASTR', 'BTC', 'ETH', 'LTC', 'XLM', 'XRP']"

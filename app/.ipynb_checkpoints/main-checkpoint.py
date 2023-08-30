@@ -9,7 +9,7 @@ from data_collect import DataCollector
 from predict import Predictor
 from position import Position
 from deal import Deal
-from logger import Logger  # assuming the logger class is in logger.py file
+from log import Logger 
 import time
 
 class MainApp:
@@ -20,9 +20,6 @@ class MainApp:
         # config.jsonの読み込み
         with open("./config.json", 'r') as f:
             self.config = json.load(f)
-        
-        # Create Logger
-        self.logger = Logger('logs/my_log.csv')
 
         self.api_key = self.config['GMO_API_KEY']
         self.secret_key = self.config['GMO_API_SECRET']
@@ -30,6 +27,7 @@ class MainApp:
         self.data_collector = DataCollector(api_key=self.api_key, secret_key=self.secret_key, save_dir=self.config['data_dir'], interval=self.config['interval'])
         self.predictor = Predictor(data_dir=self.config['data_dir'], interval=self.config['interval'], long_theta=self.config['long_theta'], short_theta=self.config['short_theta'], symbols=self.config['symbols'], model=self.config['model'])
         self.position = Position(df=self.predictor.df, api_key=self.api_key, secret_key=self.secret_key, symbols=self.config['symbols'])
+        self.logger = Logger(api_key=self.api_key, secret_key=self.secret_key, symbols=self.config['symbols'])
 
         self.scheduler = BlockingScheduler()
 
@@ -61,10 +59,11 @@ class MainApp:
             'long_list': [long_list],
             'short_list': [short_list]
         })
-        self.logger.log_dataframe(df_output)
+        self.logger.log_deal('./data/logs/log_deal', df_output)
         
     def start_scheduler(self):
         self.scheduler.add_job(self.run, 'cron', minute='*/5', second='1')
+        self.scheduler.add_job(self.logger.log_executions, 'cron', hour=23, minute=55, args=('./data/logs/log_execution',))
         self.scheduler.start()
 
 if __name__ == "__main__":

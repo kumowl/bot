@@ -1,0 +1,18 @@
+datetime,available_list,long_list,short_list
+2023-08-07 04:40:14.354218,[],[],"['BCH', 'BTC', 'ETH', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-07 04:45:16.008247,[],[],"['ASTR', 'BAT', 'BCH', 'BTC', 'ETH', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-07 04:50:15.462527,[],[],"['ATOM', 'BTC', 'ETH', 'XEM', 'XRP', 'XYM']"
+datetime,available_list,long_list,short_list
+2023-08-07 04:55:14.900357,[],[],"['ADA', 'ASTR', 'BTC', 'ETH', 'XEM', 'XRP']"
+datetime,available_list,long_list,short_list
+2023-08-07 05:00:16.894927,[],[],['DOT']
+datetime,available_list,long_list,short_list
+2023-08-07 05:05:24.209203,[],"['ATOM', 'BTC', 'XRP', 'XYM']","['ADA', 'DOT', 'ENJ', 'MONA', 'QTUM', 'XLM']"
+datetime,available_list,long_list,short_list
+2023-08-07 05:10:22.308660,"['BTC', 'XRP']",[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-07 05:15:16.876837,['XRP'],[],['BTC']
+datetime,available_list,long_list,short_list
+2023-08-07 05:20:13.756198,['XRP'],[],"['BTC', 'XRP']"
